@@ -1,0 +1,5 @@
+{
+  "name": "AI Venture Scout",
+  "description": "An autonomous startup and market research agent that generates investor-grade reports including market size, competitor analysis, and GTM strategy using real-time data.",
+  "requestFramePermissions": []
+}
